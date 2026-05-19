@@ -53,7 +53,7 @@ Ce projet est une application complète basée sur une architecture **frontend /
 
 ## ⚙️ Fonctionnalités
 
-✅ API REST avec 3 routes :
+✅ API REST avec 3 routes différentes :
 - `/` → message de bienvenue  
 - `/health` → vérification état API  
 - `/calcul` → retourne le carré d’un entier  
